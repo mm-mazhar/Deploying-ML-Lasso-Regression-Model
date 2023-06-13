@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Building packages and uploading them to a Gemfury repository
-
+echo "Building packages and uploading them to a Gemfury repository"
 GEMFURY_URL=$GEMFURY_PUSH_URL
 echo $GEMFURY_URL
 set -e
