@@ -3,7 +3,7 @@
 # Building packages and uploading them to a Gemfury repository
 
 GEMFURY_URL=$GEMFURY_PUSH_URL
-
+echo $GEMFURY_URL
 set -e
 
 DIRS="$@"
@@ -11,14 +11,17 @@ BASE_DIR=$(pwd)
 SETUP="setup.py"
 
 warn() {
+    echo "warn"
     echo "$@" 1>&2
 }
 
 die() {
+    echo "die"
     warn "$@"
     exit 1
 }
 
+echo "Building packages and uploading them to GEMFURY_URL"
 build() {
     DIR="${1/%\//}"
     echo "Checking directory $DIR"
