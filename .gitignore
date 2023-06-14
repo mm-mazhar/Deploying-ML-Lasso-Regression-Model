@@ -7,6 +7,7 @@
 __pycache__/*
 Data/*
 Models/*
+scripts/fetch_kaggle_large_dataset.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

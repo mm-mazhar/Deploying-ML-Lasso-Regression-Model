@@ -1,7 +1,9 @@
 # End-to-End Regression Model Pipeline Development with FastAPI: From Data Scraping to Deployment with CI/CD Integration"
 
 
-The project is a comprehensive end-to-end solution for real estate data analysis and machine learning model deployment. It starts with the collection of real estate data from a website, which is then processed and cleaned to ensure data quality and consistency. The scrapped data is uploaded to [Kaggle](https://www.kaggle.com/datasets/mazhar01/real-state-website-data). [Github repo](https://github.com/mm-mazhar/Scraping-Zameen.com). The cleaned data is further analyzed and features are engineered using popular libraries such as pandas, numpy, SK-Learn and Feature Engine, which involves little bit of changes in sci-kit learn classes.
+The project is a comprehensive end-to-end solution for real estate data analysis and machine learning model deployment. It starts with the collection of real estate data from a website, which is then processed and cleaned to ensure data quality and consistency. The scrapped data is uploaded to [Kaggle](https://www.kaggle.com/datasets/mazhar01/real-state-website-data). [Github repo](https://github.com/mm-mazhar/Scraping-Zameen.com). The cleaned data is further analyzed and features are engineered using popular libraries such as pandas, numpy, SK-Learn and Feature Engine, which involves little bit of changes in sci-kit learn classes and build a pipeline for Research and Development Phase.
+
+
 
 The next phase involves building a robust ML pipeline, where the Lasso Regression Model is trained and fine-tuned using the processed data. The model is packaged and uploaded to [PyPi](https://pypi.org/project/lasso-regression-model/) to ensure easy integration and deployment. The packaging process includes organizing dependencies, and creating a reproducible environment.
 
