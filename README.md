@@ -29,9 +29,9 @@ The project follows software engineering practices, with an emphasis on testing 
 Click on the image to see full view.
 <table style="width:100%; align=center">
 <tr>
-  <td><img src="https://i.imgur.com/LaKEGVc.png" alt="Image" width="580px" height=190px/></td>
-  <td><img src="https://i.imgur.com/o6lW6XL.png" alt="Image" width="580px" height=190px/></td>
-  <td><img src="https://i.imgur.com/7KNhQdl.png" alt="Image" width="580px" height=190px/></td>
+  <td><img src="https://i.imgur.com/LaKEGVc.png" alt="Image" width="580px" height=180px/></td>
+  <td><img src="https://i.imgur.com/o6lW6XL.png" alt="Image" width="580px" height=180px/></td>
+  <td><img src="https://i.imgur.com/7KNhQdl.png" alt="Image" width="580px" height=180px/></td>
 </tr>
 </table>
 
@@ -53,10 +53,10 @@ Continuous integration and deployment are achieved through the use of CircleCI, 
 Click on the image to see full view.
 <table style="width:100%; align=center">
 <tr>
-  <td><img src="https://i.imgur.com/6VgrYDU.png" alt="Image" width="580px" height=180px/></td>
-  <td><img src="https://i.imgur.com/W30TQs5.png" alt="Image" width="580px" height=180px/></td>
-  <td><img src="https://i.imgur.com/zqXTSkz.png" alt="Image" width="580px" height=180px/></td>
-  <td><img src="https://i.imgur.com/8dHAlyd.png" alt="Image" width="580px" height=180px/></td>
+  <td><img src="https://i.imgur.com/6VgrYDU.png" alt="Image" width="580px" height=170px/></td>
+  <td><img src="https://i.imgur.com/W30TQs5.png" alt="Image" width="580px" height=170px/></td>
+  <td><img src="https://i.imgur.com/zqXTSkz.png" alt="Image" width="580px" height=170px/></td>
+  <td><img src="https://i.imgur.com/8dHAlyd.png" alt="Image" width="580px" height=170px/></td>
 </tr>
 </table>
 
