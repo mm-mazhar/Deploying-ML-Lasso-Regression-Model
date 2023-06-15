@@ -66,6 +66,10 @@ Click on the image to see full view.
 
 # Section 5: Deploying with Containers (Docker)
 
+The project takes advantage of Docker to streamline the deployment process to Railway Platform. Docker is a popular containerization platform that allows for efficient packaging and deployment of applications.
+
+By leveraging Docker, the project ensures that the entire application, including its dependencies and environment, is encapsulated within a container. This containerization provides several benefits, such as consistency across different environments, easy reproducibility, and simplified deployment.
+
 Click on the image to see full view.
 <table style="width:100%; align=center">
 <tr>
