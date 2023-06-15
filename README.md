@@ -1,4 +1,4 @@
-# End-to-End Regression Model Pipeline Development with FastAPI: From Data Scraping to Deployment with CI/CD Integration"
+# End-to-End Regression Model Pipeline Development with FastAPI: From Data Scraping to Deployment with CI/CD Integration
 
 Click on the image to see full view.
 <table style="width:100%">
