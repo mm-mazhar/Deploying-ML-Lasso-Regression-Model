@@ -65,6 +65,11 @@ Continuous integration and deployment are achieved through the use of CircleCI, 
 Click on the image to see full view.
 <table style="width:100%; align=center">
 <tr>
+  <td><img src="https://i.imgur.com/YYK0hpH.png" /></td>
+</tr>
+</table>
+<table style="width:100%; align=center">
+<tr>
   <td><img src="https://i.imgur.com/6VgrYDU.png" alt="Image" width="570px" height=140px/></td>
   <td><img src="https://i.imgur.com/W30TQs5.png" alt="Image" width="570px" height=140px/></td>
   <td><img src="https://i.imgur.com/zqXTSkz.png" alt="Image" width="570px" height=140px/></td>
