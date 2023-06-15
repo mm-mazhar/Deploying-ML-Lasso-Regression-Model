@@ -39,6 +39,8 @@ Click on the image to see full view.
 
 To expose the trained machine learning model as API, the project utilizes FastAPI, a modern and efficient web framework. This allows users to send requests to the deployed model and receive predictions or valuable insights based on the real estate data.
 
+[Link to Deloyed API](https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post)
+
 Click on the image to see full view.
 <table style="width:100%; align=center">
 <tr>

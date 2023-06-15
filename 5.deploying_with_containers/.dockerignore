@@ -10,3 +10,4 @@ packages/regression_model
 .tox
 Data/*
 Models/*
+feature_engineering_ppt/*
