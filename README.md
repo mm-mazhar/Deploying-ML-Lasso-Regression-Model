@@ -1,4 +1,16 @@
-# End-to-End Regression Model Pipeline Development with FastAPI: From Data Scraping to Deployment with CI/CD Integration
+# End-to-End Regression Model Pipeline
+### From Data Scraping to Deployment: using, PyPI Model Packaging, FastAPI, Railway, Docker with CI/CD Integration
+<br>
+<div align="center">
+	<span class="label"><a href="https://github.com/mm-mazhar/Scraping-Zameen.com" target="blank"><img alt="Github Data Scraping Repo" src="https://img.shields.io/badge/Github-Data%20Scraping%20Repo-blue"></a></span>
+	<span class="label"><a href="https://www.kaggle.com/datasets/mazhar01/real-state-website-data" target="blank"><img alt="Download Data From Kaggle" src="https://img.shields.io/badge/kaggle-Data-blue"></a></span>
+	<span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post" target="blank"><img alt="Predict API" src="https://img.shields.io/badge/FastAPI-Predict%20API-blue"></a></span>
+	<span class="label"><a href="https://pypi.org/project/lasso-regression-model/" target="_blank"><img alt="PyPI" src="https://img.shields.io/pypi/v/lasso-regression-model?logo=PyPi&style=Flat"></a></span>
+	<span class="label"><a href="javascript:void(0);" style="pointer-events: none;"><img alt="CircleCI" src="https://img.shields.io/circleci/build/github/mm-mazhar/Deploying-ML-Lasso-Regression-Model/main?logo=circleci&style=Flat"></a></span>
+	<span class="label"><a href="https://tame-hook-production.up.railway.app/docs#/default/predict_api_v1_predict_post" target="_blank"><img alt="Railway APP" src="https://img.shields.io/badge/Railway-000000?style=Flat&logo=Railway"/></a></span>
+	<span class="label"><a href="https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model/tree/main/5.deploying_with_containers" target="_blank"><img src="https://img.shields.io/badge/Docker-000000?style=Flat&logo=Docker"/></a></span> 
+</div>
+<br>
 
 Click on the image to see full view.
 <table style="width:100%">
