@@ -1,4 +1,5 @@
 jupyter_notebooks*
+*.ipynb
 */env*
 */venv*
 .circleci*

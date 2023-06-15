@@ -1,6 +1,6 @@
 .env/*
 .venv/*
-*.ipynb
+# *.ipynb
 *.ipynb_checkpoints
 .tox/*
 .vscode
