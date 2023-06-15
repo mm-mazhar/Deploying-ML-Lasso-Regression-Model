@@ -38,6 +38,13 @@ Click on the image to see full view.
 </table>
 
 # Section 3: Model Serving API (FastAPI)
+There are four types of ML System Architectures
+- 1. Model Embedded in an application.
+- 2. Served via dedicated service.
+- 3. Model Published as data (Streaming).
+- 4. Batch Predition (offline process).
+
+Here, approach 1 i.e. Model Embedded in an application is under consideratation. However, it is very simple model and it can be served as a dedicated service (approach 2)
 
 To expose the trained machine learning model as API, the project utilizes FastAPI, a modern and efficient web framework. This allows users to send requests to the deployed model and receive predictions or valuable insights based on the real estate data.
 
@@ -46,8 +53,9 @@ To expose the trained machine learning model as API, the project utilizes FastAP
 Click on the image to see full view.
 <table style="width:100%; align=center">
 <tr>
-  <td><img src="https://i.imgur.com/5yARjOK.png"/></td>
-  </tr>
+<td><img src="https://i.imgur.com/QN2iFYX.png" alt="Image" width="570px"  height=190px/></td>
+<td><img src="https://i.imgur.com/5yARjOK.png" alt="Image" width="570px" height=190px/></td>
+</tr>
 </table>
 
 # Section 4: CI/CD (CircleCI)
@@ -57,10 +65,10 @@ Continuous integration and deployment are achieved through the use of CircleCI, 
 Click on the image to see full view.
 <table style="width:100%; align=center">
 <tr>
-  <td><img src="https://i.imgur.com/6VgrYDU.png" alt="Image" width="570px" height=170px/></td>
-  <td><img src="https://i.imgur.com/W30TQs5.png" alt="Image" width="570px" height=170px/></td>
-  <td><img src="https://i.imgur.com/zqXTSkz.png" alt="Image" width="570px" height=170px/></td>
-  <td><img src="https://i.imgur.com/8dHAlyd.png" alt="Image" width="570px" height=170px/></td>
+  <td><img src="https://i.imgur.com/6VgrYDU.png" alt="Image" width="570px" height=140px/></td>
+  <td><img src="https://i.imgur.com/W30TQs5.png" alt="Image" width="570px" height=140px/></td>
+  <td><img src="https://i.imgur.com/zqXTSkz.png" alt="Image" width="570px" height=140px/></td>
+  <td><img src="https://i.imgur.com/8dHAlyd.png" alt="Image" width="570px" height=140px/></td>
 </tr>
 </table>
 
