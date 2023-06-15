@@ -20,6 +20,8 @@ Click on the image to see full view.
 </tr>
 </table>
 
+[See Feature Engineering PPT](https://github.com/mm-mazhar/Deploying-ML-Lasso-Regression-Model/blob/main/feature_engineering_ppt/PPT_FeatureEngineering.pdf)
+
 # Section 2: Production Model Package
 
 The next phase involves building a robust ML pipeline, where the Lasso Regression Model is trained and fine-tuned using the processed data. The model is packaged and uploaded to [PyPi](https://pypi.org/project/lasso-regression-model/) to ensure easy integration and deployment. The packaging process includes organizing dependencies, and creating a reproducible environment.
